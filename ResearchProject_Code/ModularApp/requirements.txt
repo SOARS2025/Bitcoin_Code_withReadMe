@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pandas-ta
+plotly
+ccxt
+beautifulsoup4
+google-cloud-language
+requests
