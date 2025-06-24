@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 
 # Configure the API key - IMPORTANT: Use Streamlit secrets or environment variables for security
 # For now, using hardcoded API key - REPLACE WITH YOUR ACTUAL API KEY SECURELY
-GOOGLE_API_KEY = "AIzaSyBKxz0Wwv4S2_Ts-plsyiCSnQKS6OL1FHQ" 
+GOOGLE_API_KEY = "" 
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Select the Gemini model - using 'gemini-2.0-flash' as a general-purpose model
